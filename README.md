@@ -32,3 +32,16 @@ The assignment focuses on:
 
 1. Clone the repository:
 
+2. Navigate to the repository directory:
+
+
+3. Follow the instructions in the `README.md` file to import data and execute SQL queries.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
